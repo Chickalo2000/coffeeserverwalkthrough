@@ -1,12 +1,12 @@
 # Coffee Shop Location API Setup Guide
 
 ## Initial Setup Checklist
-- [ ] Create a new directory for your project
-- [ ] Initialize npm project: `npm init -y`
-- [ ] Install required dependencies: `npm install express mongoose dotenv`
+- [x] Create a new directory for your project
+- [x] Initialize npm project: `npm init -y`
+- [?] Install required dependencies: `npm install express mongoose dotenv` 
 
 ## MongoDB Setup
-- [ ] Sign up for a free MongoDB Atlas account at [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+- [x] Sign up for a free MongoDB Atlas account at [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 - [ ] Create a new cluster (free tier is fine)
 - [ ] Set up database access:
   - Create a database user with password
